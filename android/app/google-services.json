@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "644927865575",
+    "project_id": "dica-laws-affbf",
+    "storage_bucket": "dica-laws-affbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644927865575:android:87bce10b76ec3fa1991842",
+        "android_client_info": {
+          "package_name": "com.thanlar.dica_laws"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644927865575-7cckjb75n9e4u3b46467am835tlerug5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thanlar.dica_laws",
+            "certificate_hash": "ae2357d0a5a1fe2620ebbc079b61db7b95c5cff1"
+          }
+        },
+        {
+          "client_id": "644927865575-6n59st4mns99e21o5g84cqi94vn8vk28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8fdyu__CxTP0fXnaoVmOj_-f0AfEs7Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644927865575-6n59st4mns99e21o5g84cqi94vn8vk28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
